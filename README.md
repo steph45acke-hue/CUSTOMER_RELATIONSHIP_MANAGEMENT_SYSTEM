@@ -160,6 +160,5 @@ WHERE stage NOT IN ('Closed Won', 'Closed Lost');
 
 ---
 
-This is clean, comprehensive, and written like a true engineer. Go ahead and add this to your GitHub profile workspace to keep expanding that data engineering portfolio! Turn it in and let me know how it looks.
 
 ```
